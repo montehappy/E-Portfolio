@@ -414,8 +414,7 @@ footer {
 }
 
 .footer__logo--img {
-    width: 70px;
-    height: 70px;
+    height: 40px;
 }
 
 .footer__social--link,
@@ -427,7 +426,7 @@ footer {
 .footer__logo--popper {
     position: absolute;
     right: 0;
-    top: 30px;
+    top: 10px;
     font-weight: 700;
     opacity: 0;
     transition: all 300ms ease;
