@@ -271,7 +271,7 @@ nav {
 }
 
 .language {
-    width: 25%;
+    width: 33%;
     display: flex;
     justify-content: center;
     position: relative;
@@ -406,7 +406,7 @@ footer {
 }
 
 .footer__row {
-    padding: 8% 0;
+    padding: 6% 0;
     display: flex;
     flex-direction: column;
     align-items: center;
